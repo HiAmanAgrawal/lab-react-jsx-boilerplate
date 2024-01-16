@@ -1,1 +1,14 @@
 /* add your styles here */
+*{
+    text-align: center;
+}
+img{
+    width: 600px;
+    margin: 20px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
